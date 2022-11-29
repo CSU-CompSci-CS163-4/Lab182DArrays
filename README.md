@@ -20,7 +20,7 @@ After you finish with your self-explanations you are free to move onto implement
 After finishing you implementation it will help to run through the game and try to create a victory case and see if it functions correctly. Optionally, you can also create more test to test all cases possible for victory conditions.
 
 ## Step 4: Turning In
-Once finished, be sure to submit your `TwoDArraysUtility.java`, there is no participation grade being taken for labs this week!
+Once finished, be sure to submit your `TwoDArraysUtility.java` and show your self-explanations to the TAs. Summer session does not need to show their self-explanations but it is still highly recommended to complete.
 
 # Additional Information
 ## 2D Arrays
